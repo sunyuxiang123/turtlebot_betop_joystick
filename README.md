@@ -11,3 +11,5 @@ Usage:
 3. roslaunch betop.launch
 
 Note: Push the left frontal button labeled as 'LB' to activate cmd_vel publishing.
+
+Should you have any queries, please contact Dr.Yuxiang Sun at sunyuxiang123@gmail.com.
