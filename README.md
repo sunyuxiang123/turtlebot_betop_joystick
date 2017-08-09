@@ -12,4 +12,4 @@ Usage:
 
 Note: Push the left frontal button labeled as 'LB' to activate cmd_vel publishing.
 
-Should you have any queries, please contact Dr.Yuxiang Sun at sunyuxiang123@gmail.com.
+Should you have any queries, please contact Dr. Yuxiang Sun at yxsun@link.cuhk.edu.hk.
